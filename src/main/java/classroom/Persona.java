@@ -11,7 +11,8 @@ public class Persona {
     }
 
     public Persona() {
-    	this(0, null);
+    	this.cedula = 0;
+    	this.nombre = null;
     }
     
     public Persona(long cedula, String nombre) {

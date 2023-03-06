@@ -11,7 +11,7 @@ public class Persona {
     }
 
     public Persona() {
-    	this("Sin nombre", 0);
+    	this(null, 0);
     }
     
     public Persona(long cedula, String nombre) {

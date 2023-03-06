@@ -8,7 +8,6 @@ public class Persona {
     
     static {
         totalPersonas = 0;
-        cedula = 0;
     }
 
     public Persona() {
